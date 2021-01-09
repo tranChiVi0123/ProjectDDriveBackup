@@ -1,0 +1,13 @@
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\bin\Debug\netcoreapp3.1\queryArgothim.exe
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\bin\Debug\netcoreapp3.1\queryArgothim.deps.json
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\bin\Debug\netcoreapp3.1\queryArgothim.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\bin\Debug\netcoreapp3.1\queryArgothim.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\bin\Debug\netcoreapp3.1\queryArgothim.dll
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\bin\Debug\netcoreapp3.1\queryArgothim.pdb
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\obj\Debug\netcoreapp3.1\queryArgothim.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\obj\Debug\netcoreapp3.1\queryArgothim.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\obj\Debug\netcoreapp3.1\queryArgothim.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\obj\Debug\netcoreapp3.1\queryArgothim.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\obj\Debug\netcoreapp3.1\queryArgothim.dll
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\obj\Debug\netcoreapp3.1\queryArgothim.pdb
+C:\Users\DELL\OneDrive\Máy tính\Project\NetCore\queryArgothim\obj\Debug\netcoreapp3.1\queryArgothim.genruntimeconfig.cache
